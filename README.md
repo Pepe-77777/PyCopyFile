@@ -1,0 +1,2 @@
+# PyCopyFile
+Better copy version!
